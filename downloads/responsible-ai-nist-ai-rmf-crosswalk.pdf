@@ -1,0 +1,484 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2995 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(NIST AI RISK MANAGEMENT FRAMEWORK CROSSWALK) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PURPOSE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(This crosswalk maps the Responsible AI Adoption Toolkit for SMEs to the NIST AI Risk) Tj
+0 -12 Td
+(  Management Framework \(AI RMF\) functions: **Govern, Map, Measure, and Manage**.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(The goal is not to turn small organizations into compliance departments. The goal is to) Tj
+0 -12 Td
+(  translate responsible AI risk management into practical workflow-level questions and) Tj
+0 -12 Td
+(  documents that SMEs can actually use.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(TOOLKIT-TO-NIST SUMMARY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| NIST AI RMF Function | SME Toolkit Component | Practical purpose |) Tj
+0 -12 Td
+(|---|---|---|) Tj
+0 -12 Td
+(| Govern | AI Governance Policy | Defines principles, ownership, prohibited uses, review) Tj
+0 -12 Td
+(  cadence, and incident response. |) Tj
+0 -12 Td
+(| Govern | Human Oversight Plan | Assigns human accountability, override rights, review) Tj
+0 -12 Td
+(  requirements, and stop conditions. |) Tj
+0 -12 Td
+(| Govern | Pilot Review Scorecard | Creates accountable scale/stop/revise decisions. |) Tj
+0 -12 Td
+(| Map | AI Use Case Intake | Defines context, purpose, users, data, affected people, and) Tj
+0 -12 Td
+(  AI role. |) Tj
+0 -12 Td
+(| Map | Stakeholder and Impact Map | Identifies affected groups, likely benefits, harms,) Tj
+0 -12 Td
+(  and engagement needs. |) Tj
+0 -12 Td
+(| Map | Workforce Impact Checklist | Maps job-quality, autonomy, surveillance, skill,) Tj
+0 -12 Td
+(  and role-change implications. |) Tj
+0 -12 Td
+(| Measure | Productivity and ROI Measurement Plan | Establishes baseline, metrics,) Tj
+0 -12 Td
+(  target outcomes, and evidence quality. |) Tj
+0 -12 Td
+(| Measure | Risk Register | Measures likelihood, impact, controls, ownership, and) Tj
+0 -12 Td
+(  status. |) Tj
+0 -12 Td
+(| Measure | Pilot Review Scorecard | Compares results against baseline, including risk) Tj
+0 -12 Td
+(  and worker experience. |) Tj
+0 -12 Td
+(| Manage | Risk Register | Tracks mitigations, owners, dates, and open/closed status. |) Tj
+0 -12 Td
+(| Manage | Human Oversight Plan | Defines operational controls, escalation, review, and) Tj
+0 -12 Td
+(  appeal paths. |) Tj
+0 -12 Td
+(| Manage | Implementation Guide | Provides staged pilot workflow and review process. |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(GOVERN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: establish policies, processes, accountability, organizational roles, and) Tj
+0 -12 Td
+(  risk culture.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `07-ai-governance-policy.md`) Tj
+0 -12 Td
+(• `06-human-oversight-plan.md`) Tj
+0 -12 Td
+(• `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 1 of 4 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2261 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(1. Who owns this AI use case?) Tj
+0 -12 Td
+(2. Who is accountable when the AI is wrong?) Tj
+0 -12 Td
+(3. What uses are prohibited without special review?) Tj
+0 -12 Td
+(4. What decisions must remain human-owned?) Tj
+0 -12 Td
+(5. Who can pause or stop the pilot?) Tj
+0 -12 Td
+(6. How often is the AI workflow reviewed?) Tj
+0 -12 Td
+(7. How are incidents logged and escalated?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Named sponsor and process owner) Tj
+0 -12 Td
+(• Human review requirements) Tj
+0 -12 Td
+(• Stop conditions) Tj
+0 -12 Td
+(• Incident response path) Tj
+0 -12 Td
+(• Pilot review date) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MAP) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: understand context, intended purpose, affected groups, assumptions,) Tj
+0 -12 Td
+(  benefits, and risks.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `01-ai-use-case-intake.md`) Tj
+0 -12 Td
+(• `02-stakeholder-and-impact-map.md`) Tj
+0 -12 Td
+(• `04-workforce-impact-checklist.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. What exact workflow is changing?) Tj
+0 -12 Td
+(2. What AI capability is being used?) Tj
+0 -12 Td
+(3. What data goes in and what output comes out?) Tj
+0 -12 Td
+(4. Who directly uses the system?) Tj
+0 -12 Td
+(5. Who is affected indirectly?) Tj
+0 -12 Td
+(6. Could this change job quality, autonomy, pay, scheduling, monitoring, or advancement?) Tj
+0 -12 Td
+(7. Could this affect customers, applicants, vendors, or public access?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use-case description) Tj
+0 -12 Td
+(• Data/input/output description) Tj
+0 -12 Td
+(• Stakeholder list) Tj
+0 -12 Td
+(• Workforce impact notes) Tj
+0 -12 Td
+(• Initial risk screen) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MEASURE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: analyze, evaluate, benchmark, and monitor AI risks and performance.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `03-productivity-roi-measurement-plan.md`) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 2 of 4 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 2123 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(• `05-risk-register.md`) Tj
+0 -12 Td
+(• `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. What is the current baseline?) Tj
+0 -12 Td
+(2. What productivity gain is expected?) Tj
+0 -12 Td
+(3. How will quality be measured?) Tj
+0 -12 Td
+(4. How will errors/rework be tracked?) Tj
+0 -12 Td
+(5. How will worker experience be measured?) Tj
+0 -12 Td
+(6. What risks are high-impact even if unlikely?) Tj
+0 -12 Td
+(7. What evidence would prove the pilot failed?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Baseline metrics) Tj
+0 -12 Td
+(• Success thresholds) Tj
+0 -12 Td
+(• Risk likelihood/impact ratings) Tj
+0 -12 Td
+(• Incident log) Tj
+0 -12 Td
+(• Worker/user feedback) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MANAGE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: prioritize, respond to, treat, monitor, and communicate AI risks.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `05-risk-register.md`) Tj
+0 -12 Td
+(• `06-human-oversight-plan.md`) Tj
+0 -12 Td
+(• `docs/implementation-guide.md`) Tj
+0 -12 Td
+(• `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Which risks must be mitigated before pilot?) Tj
+0 -12 Td
+(2. Which risks can be monitored during pilot?) Tj
+0 -12 Td
+(3. Who owns each mitigation?) Tj
+0 -12 Td
+(4. What triggers pause/stop/escalation?) Tj
+0 -12 Td
+(5. What must change before scale-up?) Tj
+0 -12 Td
+(6. What should be communicated to workers or affected people?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Risk owners) Tj
+0 -12 Td
+(• Mitigation actions) Tj
+0 -12 Td
+(• Review dates) Tj
+0 -12 Td
+(• Stop/revise/scale decision) Tj
+0 -12 Td
+(• Conditions for expansion) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(LIGHTWEIGHT SCORING MODEL) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use a 1–5 score for each dimension:) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 3 of 4 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 1673 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(| Dimension | 1 = weak/high risk | 5 = strong/low risk |) Tj
+0 -12 Td
+(|---|---|---|) Tj
+0 -12 Td
+(| Purpose clarity | Vague or speculative | Narrow, useful, measurable |) Tj
+0 -12 Td
+(| Data sensitivity | Sensitive/uncontrolled | Minimal/approved data |) Tj
+0 -12 Td
+(| Human accountability | Unclear | Named owner and review path |) Tj
+0 -12 Td
+(| Workforce impact | Unknown/possibly harmful | Reviewed with affected workers |) Tj
+0 -12 Td
+(| Measurement quality | No baseline | Baseline and success metrics defined |) Tj
+0 -12 Td
+(| Risk controls | No mitigations | Controls, owners, stop rules defined |) Tj
+0 -12 Td
+(| Reversibility | Hard to undo | Limited pilot, easy rollback |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Suggested decision rule:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• **28–35:** Pilot likely appropriate with normal controls.) Tj
+0 -12 Td
+(• **20–27:** Revise before pilot; address weak dimensions.) Tj
+0 -12 Td
+(• **Below 20:** Do not pilot until governance and risk gaps are fixed.) Tj
+0 -12 Td
+(• Any high-impact use case involving employment, pay, safety, legal, financial, health,) Tj
+0 -12 Td
+(    housing, education, or access rights requires special review regardless of score.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(GRANT POSITIONING NOTE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(This crosswalk strengthens funding applications by showing that the toolkit is not) Tj
+0 -12 Td
+(  merely a checklist collection. It is structured around a recognized AI risk-management) Tj
+0 -12 Td
+(  framework while remaining usable for SMEs.) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 4 of 4 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000330 00000 n 
+0000003377 00000 n 
+0000003503 00000 n 
+0000005816 00000 n 
+0000005942 00000 n 
+0000008117 00000 n 
+0000008245 00000 n 
+trailer << /Size 12 /Root 1 0 R >>
+startxref
+9971
+%%EOF

@@ -1,0 +1,190 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1867 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(ONE-PAGE QUICKSTART) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RESPONSIBLE AI ADOPTION REVIEW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use this before piloting AI in a business workflow.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. DEFINE THE USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What workflow changes? What AI does what? Who owns it?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `01-ai-use-case-intake.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(2. IDENTIFY AFFECTED PEOPLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Who uses it? Who is affected by it? Could it change job quality, access, fairness,) Tj
+0 -12 Td
+(  privacy, or trust?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Templates: `02-stakeholder-and-impact-map.md`, `04-workforce-impact-checklist.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(3. MEASURE VALUE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What is the baseline? What improvement is expected? How will quality and rework be) Tj
+0 -12 Td
+(  measured?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `03-productivity-roi-measurement-plan.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(4. REGISTER RISK) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What can go wrong? Who owns the risk? What controls are required?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `05-risk-register.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(5. KEEP HUMANS ACCOUNTABLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What decisions stay human-owned? Who reviews AI output? Who can override it?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `06-human-oversight-plan.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(6. PILOT NARROWLY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use limited scope, limited data, and clear stop conditions.) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 1 of 2 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 414 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(Guide: `implementation-guide.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(7. REVIEW BEFORE SCALE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Stop, revise, continue, expand, or scale only after evidence review.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `08-pilot-review-scorecard.md`) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 2 of 2 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000002236 00000 n 
+0000002362 00000 n 
+trailer << /Size 8 /Root 1 0 R >>
+startxref
+2827
+%%EOF

@@ -1,0 +1,3472 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R 46 0 R 48 0 R 50 0 R 52 0 R 54 0 R 56 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2083 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(RESPONSIBLE AI ADOPTION TOOLKIT FOR SMES — V0.2 PUBLIC PACKET) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Responsible AI at Work Lab) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Project page: https://murphylawtex-bit.github.io/responsible-ai-at-work-lab/) Tj
+0 -12 Td
+(Repository: https://github.com/murphylawtex-bit/responsible-ai-at-work-lab) Tj
+0 -12 Td
+(Contact: murphy.law.tex@gmail.com) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(QUICKSTART: RUN A RESPONSIBLE AI PILOT REVIEW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 1 — DEFINE THE USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Complete `templates/01-ai-use-case-intake.md`.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(If the use case is vague, stop and narrow it.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 2 — MAP AFFECTED PEOPLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Complete `templates/02-stakeholder-and-impact-map.md` and `templates/04-workforce-) Tj
+0 -12 Td
+(  impact-checklist.md`.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(If affected workers or users cannot provide feedback, do not scale the pilot.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 3 — MEASURE BEFORE CHANGING THE WORKFLOW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Complete `templates/03-productivity-roi-measurement-plan.md`.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(If there is no baseline, productivity claims are guesses.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 4 — REGISTER RISKS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Complete `templates/05-risk-register.md`.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Every high-impact risk needs an owner, mitigation, and review date.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 5 — DEFINE HUMAN OVERSIGHT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Complete `templates/06-human-oversight-plan.md`.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(If nobody is accountable when AI is wrong, the pilot is not ready.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 6 — RUN A LIMITED PILOT) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 1 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1813 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use a narrow workflow, limited data, and clear stop conditions.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STEP 7 — REVIEW BEFORE SCALE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Complete `templates/08-pilot-review-scorecard.md`.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Decision options:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Stop) Tj
+0 -12 Td
+(• Revise and rerun) Tj
+0 -12 Td
+(• Continue limited pilot) Tj
+0 -12 Td
+(• Expand carefully) Tj
+0 -12 Td
+(• Scale with controls) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(ONE-PAGE QUICKSTART) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RESPONSIBLE AI ADOPTION REVIEW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use this before piloting AI in a business workflow.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. DEFINE THE USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What workflow changes? What AI does what? Who owns it?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `01-ai-use-case-intake.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(2. IDENTIFY AFFECTED PEOPLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Who uses it? Who is affected by it? Could it change job quality, access, fairness,) Tj
+0 -12 Td
+(  privacy, or trust?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Templates: `02-stakeholder-and-impact-map.md`, `04-workforce-impact-checklist.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(3. MEASURE VALUE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What is the baseline? What improvement is expected? How will quality and rework be) Tj
+0 -12 Td
+(  measured?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `03-productivity-roi-measurement-plan.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(4. REGISTER RISK) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 2 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 2080 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(What can go wrong? Who owns the risk? What controls are required?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `05-risk-register.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(5. KEEP HUMANS ACCOUNTABLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What decisions stay human-owned? Who reviews AI output? Who can override it?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `06-human-oversight-plan.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(6. PILOT NARROWLY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use limited scope, limited data, and clear stop conditions.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Guide: `implementation-guide.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(7. REVIEW BEFORE SCALE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Stop, revise, continue, expand, or scale only after evidence review.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Template: `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(30-DAY RESPONSIBLE AI ADOPTION PILOT GUIDE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(OBJECTIVE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Run a limited, measurable AI adoption pilot that creates real business evidence while) Tj
+0 -12 Td
+(  protecting workers, customers, and public trust.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WEEK 1 — DEFINE AND SCREEN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Pick one narrow workflow.) Tj
+0 -12 Td
+(2. Complete `01-ai-use-case-intake.md`.) Tj
+0 -12 Td
+(3. Complete `02-stakeholder-and-impact-map.md`.) Tj
+0 -12 Td
+(4. Create initial `05-risk-register.md`.) Tj
+0 -12 Td
+(5. Decide whether the use case is safe enough for a limited pilot.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Deliverable: pilot charter and risk screen.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WEEK 2 — MEASURE AND GOVERN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Complete `03-productivity-roi-measurement-plan.md`.) Tj
+0 -12 Td
+(2. Complete `06-human-oversight-plan.md`.) Tj
+0 -12 Td
+(3. Adopt or adapt `07-ai-governance-policy.md`.) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 3 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 2112 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(4. Brief affected workers/users.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Deliverable: approved pilot plan.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WEEKS 3–4 — PILOT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Run the AI workflow in parallel or limited production.) Tj
+0 -12 Td
+(2. Track time, quality, rework, review burden, and incidents.) Tj
+0 -12 Td
+(3. Collect worker/user feedback.) Tj
+0 -12 Td
+(4. Update the risk register weekly.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Deliverable: pilot evidence file.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(END OF MONTH — REVIEW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Complete `08-pilot-review-scorecard.md`.) Tj
+0 -12 Td
+(2. Decide: stop, revise, expand, or scale.) Tj
+0 -12 Td
+(3. Document conditions required for next stage.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Deliverable: adoption decision memo.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(GOOD PILOT CHARACTERISTICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Narrow enough to reverse.) Tj
+0 -12 Td
+(• Clear human owner.) Tj
+0 -12 Td
+(• Baseline exists.) Tj
+0 -12 Td
+(• No high-impact decisions without special review.) Tj
+0 -12 Td
+(• Workers/users can give feedback.) Tj
+0 -12 Td
+(• Risks are tracked visibly.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(BAD PILOT CHARACTERISTICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Vague productivity claims.) Tj
+0 -12 Td
+(• No baseline.) Tj
+0 -12 Td
+(• No human accountability.) Tj
+0 -12 Td
+(• Sensitive data in unapproved tools.) Tj
+0 -12 Td
+(• Hidden worker surveillance.) Tj
+0 -12 Td
+(• “Human in the loop” that is really rubber-stamping.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST AI RISK MANAGEMENT FRAMEWORK CROSSWALK) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PURPOSE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(This crosswalk maps the Responsible AI Adoption Toolkit for SMEs to the NIST AI Risk) Tj
+0 -12 Td
+(  Management Framework \(AI RMF\) functions: **Govern, Map, Measure, and Manage**.) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 4 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 3080 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(The goal is not to turn small organizations into compliance departments. The goal is to) Tj
+0 -12 Td
+(  translate responsible AI risk management into practical workflow-level questions and) Tj
+0 -12 Td
+(  documents that SMEs can actually use.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(TOOLKIT-TO-NIST SUMMARY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| NIST AI RMF Function | SME Toolkit Component | Practical purpose |) Tj
+0 -12 Td
+(|---|---|---|) Tj
+0 -12 Td
+(| Govern | AI Governance Policy | Defines principles, ownership, prohibited uses, review) Tj
+0 -12 Td
+(  cadence, and incident response. |) Tj
+0 -12 Td
+(| Govern | Human Oversight Plan | Assigns human accountability, override rights, review) Tj
+0 -12 Td
+(  requirements, and stop conditions. |) Tj
+0 -12 Td
+(| Govern | Pilot Review Scorecard | Creates accountable scale/stop/revise decisions. |) Tj
+0 -12 Td
+(| Map | AI Use Case Intake | Defines context, purpose, users, data, affected people, and) Tj
+0 -12 Td
+(  AI role. |) Tj
+0 -12 Td
+(| Map | Stakeholder and Impact Map | Identifies affected groups, likely benefits, harms,) Tj
+0 -12 Td
+(  and engagement needs. |) Tj
+0 -12 Td
+(| Map | Workforce Impact Checklist | Maps job-quality, autonomy, surveillance, skill,) Tj
+0 -12 Td
+(  and role-change implications. |) Tj
+0 -12 Td
+(| Measure | Productivity and ROI Measurement Plan | Establishes baseline, metrics,) Tj
+0 -12 Td
+(  target outcomes, and evidence quality. |) Tj
+0 -12 Td
+(| Measure | Risk Register | Measures likelihood, impact, controls, ownership, and) Tj
+0 -12 Td
+(  status. |) Tj
+0 -12 Td
+(| Measure | Pilot Review Scorecard | Compares results against baseline, including risk) Tj
+0 -12 Td
+(  and worker experience. |) Tj
+0 -12 Td
+(| Manage | Risk Register | Tracks mitigations, owners, dates, and open/closed status. |) Tj
+0 -12 Td
+(| Manage | Human Oversight Plan | Defines operational controls, escalation, review, and) Tj
+0 -12 Td
+(  appeal paths. |) Tj
+0 -12 Td
+(| Manage | Implementation Guide | Provides staged pilot workflow and review process. |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(GOVERN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: establish policies, processes, accountability, organizational roles, and) Tj
+0 -12 Td
+(  risk culture.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `07-ai-governance-policy.md`) Tj
+0 -12 Td
+(• `06-human-oversight-plan.md`) Tj
+0 -12 Td
+(• `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Who owns this AI use case?) Tj
+0 -12 Td
+(2. Who is accountable when the AI is wrong?) Tj
+0 -12 Td
+(3. What uses are prohibited without special review?) Tj
+0 -12 Td
+(4. What decisions must remain human-owned?) Tj
+0 -12 Td
+(5. Who can pause or stop the pilot?) Tj
+0 -12 Td
+(6. How often is the AI workflow reviewed?) Tj
+0 -12 Td
+(7. How are incidents logged and escalated?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 5 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 2263 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(• Named sponsor and process owner) Tj
+0 -12 Td
+(• Human review requirements) Tj
+0 -12 Td
+(• Stop conditions) Tj
+0 -12 Td
+(• Incident response path) Tj
+0 -12 Td
+(• Pilot review date) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MAP) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: understand context, intended purpose, affected groups, assumptions,) Tj
+0 -12 Td
+(  benefits, and risks.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `01-ai-use-case-intake.md`) Tj
+0 -12 Td
+(• `02-stakeholder-and-impact-map.md`) Tj
+0 -12 Td
+(• `04-workforce-impact-checklist.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. What exact workflow is changing?) Tj
+0 -12 Td
+(2. What AI capability is being used?) Tj
+0 -12 Td
+(3. What data goes in and what output comes out?) Tj
+0 -12 Td
+(4. Who directly uses the system?) Tj
+0 -12 Td
+(5. Who is affected indirectly?) Tj
+0 -12 Td
+(6. Could this change job quality, autonomy, pay, scheduling, monitoring, or advancement?) Tj
+0 -12 Td
+(7. Could this affect customers, applicants, vendors, or public access?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use-case description) Tj
+0 -12 Td
+(• Data/input/output description) Tj
+0 -12 Td
+(• Stakeholder list) Tj
+0 -12 Td
+(• Workforce impact notes) Tj
+0 -12 Td
+(• Initial risk screen) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MEASURE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: analyze, evaluate, benchmark, and monitor AI risks and performance.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `03-productivity-roi-measurement-plan.md`) Tj
+0 -12 Td
+(• `05-risk-register.md`) Tj
+0 -12 Td
+(• `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. What is the current baseline?) Tj
+0 -12 Td
+(2. What productivity gain is expected?) Tj
+0 -12 Td
+(3. How will quality be measured?) Tj
+0 -12 Td
+(4. How will errors/rework be tracked?) Tj
+0 -12 Td
+(5. How will worker experience be measured?) Tj
+0 -12 Td
+(6. What risks are high-impact even if unlikely?) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 6 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 2412 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(7. What evidence would prove the pilot failed?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Baseline metrics) Tj
+0 -12 Td
+(• Success thresholds) Tj
+0 -12 Td
+(• Risk likelihood/impact ratings) Tj
+0 -12 Td
+(• Incident log) Tj
+0 -12 Td
+(• Worker/user feedback) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MANAGE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NIST emphasis: prioritize, respond to, treat, monitor, and communicate AI risks.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Toolkit support:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• `05-risk-register.md`) Tj
+0 -12 Td
+(• `06-human-oversight-plan.md`) Tj
+0 -12 Td
+(• `docs/implementation-guide.md`) Tj
+0 -12 Td
+(• `08-pilot-review-scorecard.md`) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SME questions:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Which risks must be mitigated before pilot?) Tj
+0 -12 Td
+(2. Which risks can be monitored during pilot?) Tj
+0 -12 Td
+(3. Who owns each mitigation?) Tj
+0 -12 Td
+(4. What triggers pause/stop/escalation?) Tj
+0 -12 Td
+(5. What must change before scale-up?) Tj
+0 -12 Td
+(6. What should be communicated to workers or affected people?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Minimum evidence:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Risk owners) Tj
+0 -12 Td
+(• Mitigation actions) Tj
+0 -12 Td
+(• Review dates) Tj
+0 -12 Td
+(• Stop/revise/scale decision) Tj
+0 -12 Td
+(• Conditions for expansion) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(LIGHTWEIGHT SCORING MODEL) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use a 1–5 score for each dimension:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Dimension | 1 = weak/high risk | 5 = strong/low risk |) Tj
+0 -12 Td
+(|---|---|---|) Tj
+0 -12 Td
+(| Purpose clarity | Vague or speculative | Narrow, useful, measurable |) Tj
+0 -12 Td
+(| Data sensitivity | Sensitive/uncontrolled | Minimal/approved data |) Tj
+0 -12 Td
+(| Human accountability | Unclear | Named owner and review path |) Tj
+0 -12 Td
+(| Workforce impact | Unknown/possibly harmful | Reviewed with affected workers |) Tj
+0 -12 Td
+(| Measurement quality | No baseline | Baseline and success metrics defined |) Tj
+0 -12 Td
+(| Risk controls | No mitigations | Controls, owners, stop rules defined |) Tj
+0 -12 Td
+(| Reversibility | Hard to undo | Limited pilot, easy rollback |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Suggested decision rule:) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 7 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 19 0 R >>
+endobj
+19 0 obj
+<< /Length 2110 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(• **28–35:** Pilot likely appropriate with normal controls.) Tj
+0 -12 Td
+(• **20–27:** Revise before pilot; address weak dimensions.) Tj
+0 -12 Td
+(• **Below 20:** Do not pilot until governance and risk gaps are fixed.) Tj
+0 -12 Td
+(• Any high-impact use case involving employment, pay, safety, legal, financial, health,) Tj
+0 -12 Td
+(    housing, education, or access rights requires special review regardless of score.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(GRANT POSITIONING NOTE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(This crosswalk strengthens funding applications by showing that the toolkit is not) Tj
+0 -12 Td
+(  merely a checklist collection. It is structured around a recognized AI risk-management) Tj
+0 -12 Td
+(  framework while remaining usable for SMEs.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI USE CASE INTAKE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. BASIC INFORMATION) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Organization / team:) Tj
+0 -12 Td
+(• Date:) Tj
+0 -12 Td
+(• Sponsor / owner:) Tj
+0 -12 Td
+(• Process owner:) Tj
+0 -12 Td
+(• Proposed AI use case name:) Tj
+0 -12 Td
+(• Pilot or production?:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(2. PROBLEM STATEMENT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(What business problem or workflow friction are we trying to solve?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(3. PROPOSED AI-ENABLED WORKFLOW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Describe what the AI will do and where it fits in the process.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(4. CURRENT PROCESS BASELINE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Current process owner:) Tj
+0 -12 Td
+(• Current tools:) Tj
+0 -12 Td
+(• Current average cycle time:) Tj
+0 -12 Td
+(• Current error/rework rate:) Tj
+0 -12 Td
+(• Current cost estimate:) Tj
+0 -12 Td
+(• Current pain points:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(5. INTENDED OUTCOMES) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 8 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 21 0 R >>
+endobj
+21 0 obj
+<< /Length 2141 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(Select all that apply:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] Save time) Tj
+0 -12 Td
+(• [ ] Improve quality) Tj
+0 -12 Td
+(• [ ] Reduce rework/errors) Tj
+0 -12 Td
+(• [ ] Improve customer/user experience) Tj
+0 -12 Td
+(• [ ] Improve access or inclusion) Tj
+0 -12 Td
+(• [ ] Improve documentation/knowledge capture) Tj
+0 -12 Td
+(• [ ] Support decision-making) Tj
+0 -12 Td
+(• [ ] Reduce risk) Tj
+0 -12 Td
+(• [ ] Other:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(6. USERS AND AFFECTED PARTIES) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Direct users:) Tj
+0 -12 Td
+(• Managers/approvers:) Tj
+0 -12 Td
+(• Internal affected teams:) Tj
+0 -12 Td
+(• External affected parties/customers:) Tj
+0 -12 Td
+(• Workers whose roles may change:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(7. AI SYSTEM DETAILS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• AI tool/model/vendor:) Tj
+0 -12 Td
+(• Data inputs:) Tj
+0 -12 Td
+(• Data outputs:) Tj
+0 -12 Td
+(• Does it use personal/sensitive data?:) Tj
+0 -12 Td
+(• Does it make recommendations or decisions?:) Tj
+0 -12 Td
+(• Does it interact with external people?:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(8. HUMAN ACCOUNTABILITY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Who reviews AI output?) Tj
+0 -12 Td
+(• Who can override it?) Tj
+0 -12 Td
+(• Who is accountable if it is wrong?) Tj
+0 -12 Td
+(• What decisions are AI prohibited from making?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(9. INITIAL RISK SCREEN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Could the AI output materially affect someone's job, pay, access, safety, reputation, or) Tj
+0 -12 Td
+(    rights?) Tj
+0 -12 Td
+(• Could confidential or personal data be exposed?) Tj
+0 -12 Td
+(• Could bias or unfair treatment occur?) Tj
+0 -12 Td
+(• Could hallucinations create operational or legal risk?) Tj
+0 -12 Td
+(• Could employees feel surveilled, deskilled, or displaced?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(10. GO/NO-GO FOR DEEPER REVIEW) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 9 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 23 0 R >>
+endobj
+23 0 obj
+<< /Length 2267 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(• [ ] Proceed to impact map) Tj
+0 -12 Td
+(• [ ] Needs revision before review) Tj
+0 -12 Td
+(• [ ] Do not pursue) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Reason:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STAKEHOLDER AND IMPACT MAP) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Date:) Tj
+0 -12 Td
+(• Prepared by:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STAKEHOLDER TABLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Stakeholder group | How they interact with the workflow | Potential benefit |) Tj
+0 -12 Td
+(  Potential harm/risk | Engagement needed? | Notes |) Tj
+0 -12 Td
+(|---|---|---|---|---|---|) Tj
+0 -12 Td
+(| Employees/users |  |  |  | Yes/No |  |) Tj
+0 -12 Td
+(| Managers |  |  |  | Yes/No |  |) Tj
+0 -12 Td
+(| Customers/public |  |  |  | Yes/No |  |) Tj
+0 -12 Td
+(| IT/security |  |  |  | Yes/No |  |) Tj
+0 -12 Td
+(| Compliance/legal |  |  |  | Yes/No |  |) Tj
+0 -12 Td
+(| Other |  |  |  | Yes/No |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKFORCE IMPACT QUESTIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Which tasks become automated, accelerated, or changed?) Tj
+0 -12 Td
+(2. Which tasks remain human-owned?) Tj
+0 -12 Td
+(3. Will the AI increase worker autonomy or reduce it?) Tj
+0 -12 Td
+(4. Will workers need new skills or training?) Tj
+0 -12 Td
+(5. Could the system be used for monitoring or performance discipline?) Tj
+0 -12 Td
+(6. Could the system reduce headcount, hours, wages, or advancement opportunity?) Tj
+0 -12 Td
+(7. How will affected workers provide feedback before scale-up?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SOCIETAL IMPACT QUESTIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Does this use case change access to services, information, jobs, or opportunities?) Tj
+0 -12 Td
+(2. Could it create unequal outcomes across groups?) Tj
+0 -12 Td
+(3. Does it increase dependence on opaque systems?) Tj
+0 -12 Td
+(4. Does it improve or reduce transparency?) Tj
+0 -12 Td
+(5. What would responsible public disclosure look like?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(ENGAGEMENT PLAN) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 10 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 25 0 R >>
+endobj
+25 0 obj
+<< /Length 1959 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(• Stakeholders to interview:) Tj
+0 -12 Td
+(• Questions to ask:) Tj
+0 -12 Td
+(• Feedback deadline:) Tj
+0 -12 Td
+(• Changes made based on feedback:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PRODUCTIVITY AND ROI MEASUREMENT PLAN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Pilot period:) Tj
+0 -12 Td
+(• Owner:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(BASELINE METRICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Metric | Current baseline | Source | Confidence | Notes |) Tj
+0 -12 Td
+(|---|---:|---|---|---|) Tj
+0 -12 Td
+(| Cycle time |  |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Labor hours per unit |  |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Error/rework rate |  |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Customer/user satisfaction |  |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Throughput |  |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Cost per unit |  |  | Low/Med/High |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PILOT SUCCESS METRICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Metric | Target | Minimum acceptable | How measured | Review date |) Tj
+0 -12 Td
+(|---|---:|---:|---|---|) Tj
+0 -12 Td
+(| Time saved |  |  |  |  |) Tj
+0 -12 Td
+(| Quality improvement |  |  |  |  |) Tj
+0 -12 Td
+(| Rework reduction |  |  |  |  |) Tj
+0 -12 Td
+(| User satisfaction |  |  |  |  |) Tj
+0 -12 Td
+(| Risk incidents |  |  |  |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(COST MODEL) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Tool/vendor cost:) Tj
+0 -12 Td
+(• Setup/configuration time:) Tj
+0 -12 Td
+(• Training time:) Tj
+0 -12 Td
+(• Review/oversight time:) Tj
+0 -12 Td
+(• Maintenance cost:) Tj
+0 -12 Td
+(• Expected savings/value:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MEASUREMENT CAUTIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 11 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 27 0 R >>
+endobj
+27 0 obj
+<< /Length 2262 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(• Do not count time saved if it merely shifts review burden elsewhere.) Tj
+0 -12 Td
+(• Separate novelty effect from durable productivity gain.) Tj
+0 -12 Td
+(• Track quality and rework, not only speed.) Tj
+0 -12 Td
+(• Track worker experience and customer impact alongside ROI.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION RULE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Scale if:) Tj
+0 -12 Td
+(• Revise if:) Tj
+0 -12 Td
+(• Stop if:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKFORCE IMPACT CHECKLIST) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Date:) Tj
+0 -12 Td
+(• Review owner:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(JOB AND TASK IMPACT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] Tasks automated or partially automated are documented.) Tj
+0 -12 Td
+(• [ ] Tasks requiring human judgment are documented.) Tj
+0 -12 Td
+(• [ ] New skills/training requirements are identified.) Tj
+0 -12 Td
+(• [ ] Potential role redesign is described.) Tj
+0 -12 Td
+(• [ ] Potential headcount/hour/pay impacts are disclosed internally before scale.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKER PARTICIPATION) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] Affected workers have reviewed the proposed workflow.) Tj
+0 -12 Td
+(• [ ] Feedback channels are available before and during pilot.) Tj
+0 -12 Td
+(• [ ] Workers can report harmful, inaccurate, or burdensome AI behavior.) Tj
+0 -12 Td
+(• [ ] Pilot results include worker feedback, not only management metrics.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(JOB QUALITY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Assess expected impact:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Dimension | Improves | Neutral | Worsens | Unknown | Notes |) Tj
+0 -12 Td
+(|---|---|---|---|---|---|) Tj
+0 -12 Td
+(| Autonomy |  |  |  |  |  |) Tj
+0 -12 Td
+(| Skill development |  |  |  |  |  |) Tj
+0 -12 Td
+(| Workload intensity |  |  |  |  |  |) Tj
+0 -12 Td
+(| Monitoring/surveillance |  |  |  |  |  |) Tj
+0 -12 Td
+(| Fairness |  |  |  |  |  |) Tj
+0 -12 Td
+(| Safety/stress |  |  |  |  |  |) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 12 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 29 0 R >>
+endobj
+29 0 obj
+<< /Length 2619 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(| Advancement opportunity |  |  |  |  |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(GUARDRAILS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] AI outputs are not used as sole basis for hiring, firing, discipline, pay,) Tj
+0 -12 Td
+(    promotion, or scheduling decisions.) Tj
+0 -12 Td
+(• [ ] Workers know when AI is being used in the workflow.) Tj
+0 -12 Td
+(• [ ] Workers know how to challenge or correct AI output.) Tj
+0 -12 Td
+(• [ ] Human review is meaningful, not rubber-stamping.) Tj
+0 -12 Td
+(• [ ] Training is provided before expectations change.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SUMMARY JUDGMENT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Overall workforce impact: Positive / Mixed / Negative / Unknown) Tj
+0 -12 Td
+(• Conditions required before pilot:) Tj
+0 -12 Td
+(• Conditions required before scale:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI RISK REGISTER) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Owner:) Tj
+0 -12 Td
+(• Last updated:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| ID | Risk | Category | Likelihood | Impact | Controls/Mitigation | Owner | Status |) Tj
+0 -12 Td
+(  Review date |) Tj
+0 -12 Td
+(|---|---|---|---|---|---|---|---|---|) Tj
+0 -12 Td
+(| R-001 | Hallucinated or incorrect output | Quality | Med | High | Human review; source) Tj
+0 -12 Td
+(  citation; sampling audit |  | Open |  |) Tj
+0 -12 Td
+(| R-002 | Confidential data leakage | Privacy/Security | Low/Med/High | High | Data) Tj
+0 -12 Td
+(  minimization; approved tools; no sensitive inputs |  | Open |  |) Tj
+0 -12 Td
+(| R-003 | Bias or unfair treatment | Fairness | Low/Med/High | High | Impact testing;) Tj
+0 -12 Td
+(  appeal path; human oversight |  | Open |  |) Tj
+0 -12 Td
+(| R-004 | Worker deskilling or autonomy loss | Workforce | Low/Med/High | Med |) Tj
+0 -12 Td
+(  Training; role redesign; worker feedback |  | Open |  |) Tj
+0 -12 Td
+(| R-005 | Overreliance on AI output | Governance | Med | Med/High | Clear) Tj
+0 -12 Td
+(  accountability; review checklist |  | Open |  |) Tj
+0 -12 Td
+(| R-006 | Vendor/model change affects output | Operational | Med | Med | Version) Tj
+0 -12 Td
+(  tracking; periodic revalidation |  | Open |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(CATEGORIES) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Privacy/security) Tj
+0 -12 Td
+(• Fairness/bias) Tj
+0 -12 Td
+(• Quality/reliability) Tj
+0 -12 Td
+(• Safety) Tj
+0 -12 Td
+(• Legal/compliance) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 13 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 31 0 R >>
+endobj
+31 0 obj
+<< /Length 1714 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(• Workforce/job quality) Tj
+0 -12 Td
+(• Transparency/accountability) Tj
+0 -12 Td
+(• Operational resilience) Tj
+0 -12 Td
+(• Reputational/public trust) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(ESCALATION RULE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Pause the pilot if any high-impact risk lacks an owner, mitigation, or review process.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(HUMAN OVERSIGHT PLAN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Owner:) Tj
+0 -12 Td
+(• Date:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI ROLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(The AI system will:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] Draft) Tj
+0 -12 Td
+(• [ ] Summarize) Tj
+0 -12 Td
+(• [ ] Classify) Tj
+0 -12 Td
+(• [ ] Recommend) Tj
+0 -12 Td
+(• [ ] Prioritize) Tj
+0 -12 Td
+(• [ ] Generate code/content) Tj
+0 -12 Td
+(• [ ] Analyze data) Tj
+0 -12 Td
+(• [ ] Interact with external users) Tj
+0 -12 Td
+(• [ ] Other:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(HUMAN-OWNED DECISIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(List decisions the AI may not make autonomously:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1.) Tj
+0 -12 Td
+(2.) Tj
+0 -12 Td
+(3.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(REVIEW PROCESS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Who reviews AI output?) Tj
+0 -12 Td
+(• What percentage of outputs are reviewed?) Tj
+0 -12 Td
+(• What outputs require 100% review?) Tj
+0 -12 Td
+(• What evidence/source checks are required?) Tj
+0 -12 Td
+(• How are corrections logged?) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 14 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 33 0 R >>
+endobj
+33 0 obj
+<< /Length 2132 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(OVERRIDE AND APPEAL) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Who can override AI output?) Tj
+0 -12 Td
+(• How can affected people challenge output?) Tj
+0 -12 Td
+(• Who reviews disputes?) Tj
+0 -12 Td
+(• What is the expected response time?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(ACCOUNTABILITY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Accountable executive/sponsor:) Tj
+0 -12 Td
+(• Process owner:) Tj
+0 -12 Td
+(• Technical owner:) Tj
+0 -12 Td
+(• Risk/compliance owner:) Tj
+0 -12 Td
+(• Workforce/stakeholder owner:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(STOP CONDITIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Stop or pause the AI workflow if:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] It produces repeated material errors.) Tj
+0 -12 Td
+(• [ ] It exposes confidential/personal data.) Tj
+0 -12 Td
+(• [ ] It creates unfair or discriminatory outcomes.) Tj
+0 -12 Td
+(• [ ] Workers/customers cannot understand or challenge its use.) Tj
+0 -12 Td
+(• [ ] Review burden exceeds productivity gains.) Tj
+0 -12 Td
+(• [ ] It is used outside approved scope.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(LIGHTWEIGHT RESPONSIBLE AI GOVERNANCE POLICY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PURPOSE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(This policy defines how the organization pilots and adopts AI tools responsibly, with) Tj
+0 -12 Td
+(  attention to business value, human accountability, workforce impact, privacy, fairness,) Tj
+0 -12 Td
+(  and public trust.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SCOPE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Applies to AI tools used for drafting, summarization, analysis, recommendations,) Tj
+0 -12 Td
+(  automation, customer interaction, operational decision support, or employee-facing) Tj
+0 -12 Td
+(  workflows.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PRINCIPLES) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. **Human accountability** — A person remains accountable for AI-assisted decisions.) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 15 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+34 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 35 0 R >>
+endobj
+35 0 obj
+<< /Length 2699 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(2. **Purpose limitation** — AI is used only for approved purposes.) Tj
+0 -12 Td
+(3. **Transparency** — Affected users/workers should know when AI materially shapes a) Tj
+0 -12 Td
+(  workflow.) Tj
+0 -12 Td
+(4. **Data minimization** — Use only the data needed; avoid sensitive/confidential inputs) Tj
+0 -12 Td
+(  unless approved.) Tj
+0 -12 Td
+(5. **Fairness and access** — Assess whether outcomes differ unfairly across groups.) Tj
+0 -12 Td
+(6. **Worker participation** — Affected workers should provide feedback before scale-up.) Tj
+0 -12 Td
+(7. **Measurement** — Productivity claims must be measured against a baseline.) Tj
+0 -12 Td
+(8. **Reversibility** — Pilots should be limited and stoppable before full scale.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(REQUIRED REVIEW BEFORE PILOT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• AI Use Case Intake completed) Tj
+0 -12 Td
+(• Stakeholder and Impact Map completed) Tj
+0 -12 Td
+(• Risk Register created) Tj
+0 -12 Td
+(• Human Oversight Plan approved) Tj
+0 -12 Td
+(• Measurement Plan approved) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PROHIBITED USES WITHOUT SPECIAL REVIEW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Sole basis for hiring, firing, discipline, pay, promotion, scheduling, lending, housing,) Tj
+0 -12 Td
+(    insurance, legal, medical, safety, or other high-impact decisions) Tj
+0 -12 Td
+(• Covert employee surveillance) Tj
+0 -12 Td
+(• Uploading confidential, personal, regulated, or customer data into unapproved tools) Tj
+0 -12 Td
+(• External communications without human review) Tj
+0 -12 Td
+(• Automated impersonation of a person without disclosure and approval) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PILOT REQUIREMENTS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Defined owner) Tj
+0 -12 Td
+(• Defined duration) Tj
+0 -12 Td
+(• Baseline metrics) Tj
+0 -12 Td
+(• Worker/user feedback channel) Tj
+0 -12 Td
+(• Incident log) Tj
+0 -12 Td
+(• Review meeting before expansion) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(REVIEW CADENCE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Pilot review: end of pilot or 30 days, whichever comes first) Tj
+0 -12 Td
+(• Production review: quarterly or after major model/vendor/workflow changes) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(INCIDENT RESPONSE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Material errors, data exposure, unfair outcomes, or scope violations must be logged,) Tj
+0 -12 Td
+(  escalated to the owner, and reviewed before the workflow continues.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI PILOT REVIEW SCORECARD) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 16 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+36 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 37 0 R >>
+endobj
+37 0 obj
+<< /Length 1690 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PILOT SUMMARY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Pilot dates:) Tj
+0 -12 Td
+(• Owner:) Tj
+0 -12 Td
+(• Participants:) Tj
+0 -12 Td
+(• Tools/models used:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RESULTS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Dimension | Target | Actual | Rating | Notes |) Tj
+0 -12 Td
+(|---|---:|---:|---|---|) Tj
+0 -12 Td
+(| Time saved |  |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+(| Quality |  |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+(| Rework/errors |  |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+(| User satisfaction |  |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+(| Worker experience |  |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+(| Risk incidents | 0 |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+(| Review burden |  |  | Red/Yellow/Green |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WHAT WORKED) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(-) Tj
+0 -12 Td
+(-) Tj
+0 -12 Td
+(-) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WHAT FAILED OR CREATED FRICTION) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(-) Tj
+0 -12 Td
+(-) Tj
+0 -12 Td
+(-) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKFORCE AND SOCIETAL IMPACT NOTES) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Job quality impact:) Tj
+0 -12 Td
+(• Training needs:) Tj
+0 -12 Td
+(• Transparency concerns:) Tj
+0 -12 Td
+(• Fairness/access concerns:) Tj
+0 -12 Td
+(• Stakeholder feedback:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RISK REVIEW) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• New risks discovered:) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 17 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+38 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 39 0 R >>
+endobj
+39 0 obj
+<< /Length 2162 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(• Controls that worked:) Tj
+0 -12 Td
+(• Controls that failed:) Tj
+0 -12 Td
+(• Required mitigations before expansion:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] Stop) Tj
+0 -12 Td
+(• [ ] Continue limited pilot) Tj
+0 -12 Td
+(• [ ] Revise and rerun pilot) Tj
+0 -12 Td
+(• [ ] Expand to another team/workflow) Tj
+0 -12 Td
+(• [ ] Scale to production with controls) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(CONDITIONS FOR NEXT STAGE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1.) Tj
+0 -12 Td
+(2.) Tj
+0 -12 Td
+(3.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI USE CASE READINESS AND RISK SCORING WORKSHEET) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Date:) Tj
+0 -12 Td
+(• Reviewer:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SCORING) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Score each dimension from 1 to 5.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Dimension | 1 = weak/high risk | 3 = partial | 5 = strong/low risk | Score | Notes |) Tj
+0 -12 Td
+(|---|---|---|---|---:|---|) Tj
+0 -12 Td
+(| Purpose clarity | Vague, speculative | Useful but broad | Narrow, useful, measurable |) Tj
+0 -12 Td
+(  |  |) Tj
+0 -12 Td
+(| Data sensitivity | Sensitive/uncontrolled | Mixed/unclear | Minimal/approved data |  |) Tj
+0 -12 Td
+(  |) Tj
+0 -12 Td
+(| Human accountability | Unclear | Partially assigned | Named owner and review path |  |) Tj
+0 -12 Td
+(  |) Tj
+0 -12 Td
+(| Workforce impact | Unknown or likely harmful | Mixed/uncertain | Reviewed with) Tj
+0 -12 Td
+(  affected workers |  |  |) Tj
+0 -12 Td
+(| Measurement quality | No baseline | Partial baseline | Baseline and success metrics) Tj
+0 -12 Td
+(  defined |  |  |) Tj
+0 -12 Td
+(| Risk controls | No mitigations | Some mitigations | Controls, owners, stop rules) Tj
+0 -12 Td
+(  defined |  |  |) Tj
+0 -12 Td
+(| Reversibility | Hard to undo | Partly reversible | Limited pilot, easy rollback |  |) Tj
+0 -12 Td
+(  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 18 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+40 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 41 0 R >>
+endobj
+41 0 obj
+<< /Length 1770 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(TOTAL SCORE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Total: ___ / 35) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION GUIDANCE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• **28–35:** Pilot likely appropriate with normal controls.) Tj
+0 -12 Td
+(• **20–27:** Revise before pilot; address weak dimensions.) Tj
+0 -12 Td
+(• **Below 20:** Do not pilot until governance and risk gaps are fixed.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(OVERRIDE RULES) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Regardless of score, require special review if the use case affects:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• hiring, firing, discipline, pay, promotion, or scheduling;) Tj
+0 -12 Td
+(• health, safety, legal, financial, lending, housing, insurance, or education outcomes;) Tj
+0 -12 Td
+(• access to essential services;) Tj
+0 -12 Td
+(• surveillance, monitoring, or automated evaluation of people;) Tj
+0 -12 Td
+(• children, vulnerable populations, or protected classes.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(REQUIRED ACTIONS BEFORE PILOT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1.) Tj
+0 -12 Td
+(2.) Tj
+0 -12 Td
+(3.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(REQUIRED ACTIONS BEFORE SCALE-UP) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1.) Tj
+0 -12 Td
+(2.) Tj
+0 -12 Td
+(3.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI PILOT DECISION MEMO) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(USE CASE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Use case name:) Tj
+0 -12 Td
+(• Pilot dates:) Tj
+0 -12 Td
+(• Decision date:) Tj
+0 -12 Td
+(• Decision owner:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 19 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+42 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 43 0 R >>
+endobj
+43 0 obj
+<< /Length 1945 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(• [ ] Stop) Tj
+0 -12 Td
+(• [ ] Revise and rerun pilot) Tj
+0 -12 Td
+(• [ ] Continue limited pilot) Tj
+0 -12 Td
+(• [ ] Expand to another workflow/team) Tj
+0 -12 Td
+(• [ ] Scale with controls) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SUMMARY) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Briefly summarize the pilot and recommendation.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(EVIDENCE REVIEWED) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• [ ] Use-case intake) Tj
+0 -12 Td
+(• [ ] Stakeholder/impact map) Tj
+0 -12 Td
+(• [ ] Productivity/ROI measurement plan) Tj
+0 -12 Td
+(• [ ] Workforce impact checklist) Tj
+0 -12 Td
+(• [ ] Risk register) Tj
+0 -12 Td
+(• [ ] Human oversight plan) Tj
+0 -12 Td
+(• [ ] Worker/stakeholder feedback) Tj
+0 -12 Td
+(• [ ] Pilot review scorecard) Tj
+0 -12 Td
+(• [ ] Incident log) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RESULTS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Area | Finding | Confidence | Notes |) Tj
+0 -12 Td
+(|---|---|---|---|) Tj
+0 -12 Td
+(| Time/productivity |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Quality/rework |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Review burden |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Worker experience |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Customer/user impact |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Privacy/security |  | Low/Med/High |  |) Tj
+0 -12 Td
+(| Fairness/access |  | Low/Med/High |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(CONDITIONS FOR APPROVAL) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(The next stage is approved only if these conditions are met:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1.) Tj
+0 -12 Td
+(2.) Tj
+0 -12 Td
+(3.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RISKS ACCEPTED) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Risk | Why accepted | Owner | Review date |) Tj
+0 -12 Td
+(|---|---|---|---|) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 20 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+44 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 45 0 R >>
+endobj
+45 0 obj
+<< /Length 1765 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(|  |  |  |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(RISKS NOT ACCEPTED) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Risk | Required mitigation | Owner | Deadline |) Tj
+0 -12 Td
+(|---|---|---|---|) Tj
+0 -12 Td
+(|  |  |  |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(COMMUNICATION PLAN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Who must be informed?) Tj
+0 -12 Td
+(• What will be disclosed?) Tj
+0 -12 Td
+(• How will feedback continue?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(NEXT REVIEW DATE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKER AND STAKEHOLDER FEEDBACK GUIDE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PURPOSE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI adoption changes work. This guide helps organizations collect practical feedback from) Tj
+0 -12 Td
+(  people affected by an AI pilot before deciding whether to scale.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WHEN TO USE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Use this guide:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Before a pilot starts.) Tj
+0 -12 Td
+(2. Mid-pilot if the workflow changes materially.) Tj
+0 -12 Td
+(3. At pilot review before scale-up.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PRINCIPLES) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Feedback should be safe to give honestly.) Tj
+0 -12 Td
+(• Workers should know what AI is being tested and why.) Tj
+0 -12 Td
+(• Feedback should influence the pilot decision.) Tj
+0 -12 Td
+(• Productivity metrics should not be the only evidence considered.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PRE-PILOT QUESTIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 21 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+46 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 47 0 R >>
+endobj
+47 0 obj
+<< /Length 2635 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(1. Which parts of this workflow are most frustrating or repetitive today?) Tj
+0 -12 Td
+(2. Where do errors, delays, or rework usually happen?) Tj
+0 -12 Td
+(3. What would make AI assistance useful here?) Tj
+0 -12 Td
+(4. What would make AI assistance harmful or burdensome?) Tj
+0 -12 Td
+(5. What information should not be put into an AI system?) Tj
+0 -12 Td
+(6. Which decisions should remain human-owned?) Tj
+0 -12 Td
+(7. What would you need to trust this workflow?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MID-PILOT QUESTIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Is the AI saving time, shifting work, or creating extra review burden?) Tj
+0 -12 Td
+(2. Are outputs accurate enough to be useful?) Tj
+0 -12 Td
+(3. Are people over-trusting the AI?) Tj
+0 -12 Td
+(4. Are people ignoring the AI because it is not useful?) Tj
+0 -12 Td
+(5. Has the pilot changed autonomy, workload, stress, or skill use?) Tj
+0 -12 Td
+(6. Have any privacy, fairness, or transparency concerns appeared?) Tj
+0 -12 Td
+(7. What should be changed before continuing?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(END-OF-PILOT QUESTIONS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(1. Should this workflow stop, revise, expand, or scale?) Tj
+0 -12 Td
+(2. What evidence supports that decision?) Tj
+0 -12 Td
+(3. What risks remain unresolved?) Tj
+0 -12 Td
+(4. What training would be needed before wider use?) Tj
+0 -12 Td
+(5. What should managers not do with this AI output?) Tj
+0 -12 Td
+(6. What would make the workflow more transparent or fair?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(FEEDBACK SUMMARY TEMPLATE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Question area | Main feedback | Evidence/examples | Required change | Owner |) Tj
+0 -12 Td
+(|---|---|---|---|---|) Tj
+0 -12 Td
+(| Time/workload |  |  |  |  |) Tj
+0 -12 Td
+(| Quality/rework |  |  |  |  |) Tj
+0 -12 Td
+(| Autonomy/job quality |  |  |  |  |) Tj
+0 -12 Td
+(| Privacy/security |  |  |  |  |) Tj
+0 -12 Td
+(| Fairness/access |  |  |  |  |) Tj
+0 -12 Td
+(| Trust/transparency |  |  |  |  |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(MINIMUM STANDARD BEFORE SCALE-UP) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Do not scale if:) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• affected people were not informed;) Tj
+0 -12 Td
+(• feedback was not collected;) Tj
+0 -12 Td
+(• high-impact concerns remain unresolved;) Tj
+0 -12 Td
+(• review burden exceeds productivity gain;) Tj
+0 -12 Td
+(• human accountability is unclear.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(EXAMPLE: CUSTOMER SUPPORT TRIAGE PILOT) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 22 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+48 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 49 0 R >>
+endobj
+49 0 obj
+<< /Length 2232 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SCENARIO) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(A 45-person company wants to use AI to categorize inbound support emails, summarize) Tj
+0 -12 Td
+(  customer issues, suggest priority level, and draft internal routing notes.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI ROLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(The AI classifies and summarizes. It does not send customer replies, close tickets,) Tj
+0 -12 Td
+(  promise refunds, or make account decisions.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(BASELINE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Daily support emails: 120) Tj
+0 -12 Td
+(• Average first triage time: 3.5 hours/day) Tj
+0 -12 Td
+(• Misrouting rate: estimated 8–10%) Tj
+0 -12 Td
+(• Escalation delays: common during peak periods) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PILOT DESIGN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Duration: 30 days) Tj
+0 -12 Td
+(• Scope: one support inbox) Tj
+0 -12 Td
+(• Human review: 100% of AI-prioritized urgent tickets; 25% random sample of routine) Tj
+0 -12 Td
+(    tickets) Tj
+0 -12 Td
+(• Sensitive data: exclude billing disputes and legal threats from AI processing) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(METRICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Metric | Baseline | Target |) Tj
+0 -12 Td
+(|---|---:|---:|) Tj
+0 -12 Td
+(| First triage time | 3.5 hr/day | 2.0 hr/day |) Tj
+0 -12 Td
+(| Misrouting rate | 8–10% | below 5% |) Tj
+0 -12 Td
+(| Urgent issue detection | unknown | measured during pilot |) Tj
+0 -12 Td
+(| Review burden | unknown | below 45 min/day |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(KEY RISKS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Risk | Control |) Tj
+0 -12 Td
+(|---|---|) Tj
+0 -12 Td
+(| Misclassification of urgent issue | Human review and escalation keywords |) Tj
+0 -12 Td
+(| Privacy exposure | Exclude sensitive categories; approved tool only |) Tj
+0 -12 Td
+(| Overreliance | AI priority is recommendation, not decision |) Tj
+0 -12 Td
+(| Customer trust | No external AI-generated response without human review |) Tj
+0 -12 Td
+() Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 23 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+50 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 51 0 R >>
+endobj
+51 0 obj
+<< /Length 2072 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+(WORKER FEEDBACK FOCUS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Does AI reduce repetitive sorting work?) Tj
+0 -12 Td
+(• Does it create extra correction burden?) Tj
+0 -12 Td
+(• Are priority suggestions trustworthy?) Tj
+0 -12 Td
+(• Does it change stress or workload intensity?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION RULE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Scale only if triage time drops, misrouting improves, urgent issues are not missed, and) Tj
+0 -12 Td
+(  support staff report neutral or positive workload impact.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(EXAMPLE: SALES PROPOSAL DRAFTING PILOT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SCENARIO) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(A small B2B company wants to use AI to prepare first-draft proposal outlines from notes,) Tj
+0 -12 Td
+(  prior templates, and customer requirements.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI ROLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(The AI drafts structure and language. Humans own pricing, commitments, technical) Tj
+0 -12 Td
+(  accuracy, legal terms, and final sending.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(BASELINE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Average proposal drafting time: 4–6 hours) Tj
+0 -12 Td
+(• Rework from missing requirements: frequent but not tracked) Tj
+0 -12 Td
+(• Proposal quality varies by salesperson) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PILOT DESIGN) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Duration: 6 proposal cycles) Tj
+0 -12 Td
+(• Scope: internal draft generation only) Tj
+0 -12 Td
+(• Human review: 100% before external use) Tj
+0 -12 Td
+(• Data rule: no confidential customer data in unapproved tools) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(METRICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Metric | Baseline | Target |) Tj
+0 -12 Td
+(|---|---:|---:|) Tj
+0 -12 Td
+(| Draft preparation time | 4–6 hr | 2–3 hr |) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 24 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+52 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 53 0 R >>
+endobj
+53 0 obj
+<< /Length 2251 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(| Missing-requirement rework | untracked | track and reduce |) Tj
+0 -12 Td
+(| Reviewer satisfaction | unknown | 4/5 average |) Tj
+0 -12 Td
+(| Customer-facing errors | 0 tolerance | 0 |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(KEY RISKS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Risk | Control |) Tj
+0 -12 Td
+(|---|---|) Tj
+0 -12 Td
+(| Hallucinated product/technical claims | Source-linked requirement checklist |) Tj
+0 -12 Td
+(| Wrong commercial terms | Pricing/legal fields excluded from AI ownership |) Tj
+0 -12 Td
+(| Confidentiality breach | Data minimization and approved tools |) Tj
+0 -12 Td
+(| Deskilling | Use as assistant; train staff on review quality |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKER FEEDBACK FOCUS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Does AI improve draft speed without lowering quality?) Tj
+0 -12 Td
+(• Are drafts easy to review or subtly misleading?) Tj
+0 -12 Td
+(• Does the tool help junior staff learn proposal structure?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION RULE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Expand only if draft time improves and human reviewers confirm quality, accuracy, and) Tj
+0 -12 Td
+(  review burden are acceptable.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(EXAMPLE: INTERNAL KNOWLEDGE SEARCH PILOT) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(SCENARIO) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(A 75-person organization wants to use AI to search internal policies, SOPs, and project) Tj
+0 -12 Td
+(  documentation to answer employee questions.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(AI ROLE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(The AI retrieves and summarizes internal documentation. It must cite source documents.) Tj
+0 -12 Td
+(  It does not create policy or override managers.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(BASELINE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Employees ask repeated process questions via chat/email) Tj
+0 -12 Td
+(• Documentation exists but is hard to find) Tj
+0 -12 Td
+(• Managers spend time answering repetitive questions) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(PILOT DESIGN) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 25 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+54 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 55 0 R >>
+endobj
+55 0 obj
+<< /Length 2595 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Duration: 30 days) Tj
+0 -12 Td
+(• Scope: non-sensitive SOPs and public internal policies) Tj
+0 -12 Td
+(• Human review: weekly sample audit of answers) Tj
+0 -12 Td
+(• Data rule: no HR, legal, medical, compensation, or personnel files) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(METRICS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Metric | Baseline | Target |) Tj
+0 -12 Td
+(|---|---:|---:|) Tj
+0 -12 Td
+(| Repeated manager questions | unknown | reduce by 25% |) Tj
+0 -12 Td
+(| Answer accuracy | unknown | 90%+ sampled accuracy |) Tj
+0 -12 Td
+(| Source citation rate | n/a | 100% |) Tj
+0 -12 Td
+(| Employee satisfaction | unknown | 4/5 average |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(KEY RISKS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(| Risk | Control |) Tj
+0 -12 Td
+(|---|---|) Tj
+0 -12 Td
+(| Outdated answers | document version tracking |) Tj
+0 -12 Td
+(| Hallucinated policy | require source citation |) Tj
+0 -12 Td
+(| Unauthorized access | limit indexed documents |) Tj
+0 -12 Td
+(| False authority | disclose AI is assistant, not policy owner |) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(WORKER FEEDBACK FOCUS) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(• Are answers useful and source-backed?) Tj
+0 -12 Td
+(• Does the system reduce interruption burden?) Tj
+0 -12 Td
+(• Are employees comfortable asking questions?) Tj
+0 -12 Td
+(• Are unclear policies being surfaced for improvement?) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DECISION RULE) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Scale only if answer accuracy and source citation are high, access controls are) Tj
+0 -12 Td
+(  reliable, and employees understand the AI is not the final authority.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(DISCLAIMER) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(This toolkit is for practical planning, governance, and risk-management support. It is) Tj
+0 -12 Td
+(  not legal advice, employment advice, financial advice, compliance certification, or a) Tj
+0 -12 Td
+(  guarantee that an AI system is safe, lawful, fair, or effective.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(High-impact AI uses — including employment, hiring, firing, discipline, pay, scheduling,) Tj
+0 -12 Td
+(  lending, housing, health, education, legal, safety, insurance, or access to essential) Tj
+0 -12 Td
+(  services — require qualified review beyond this toolkit.) Tj
+0 -12 Td
+() Tj
+0 -12 Td
+(Organizations remain responsible for their own AI systems, decisions, data practices,) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 26 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+56 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 57 0 R >>
+endobj
+57 0 obj
+<< /Length 192 >>
+stream
+BT
+/F1 10 Tf
+54 738 Td
+(  worker engagement, customer communications, and compliance obligations.) Tj
+ET
+BT
+/F1 8 Tf
+54 30 Td
+(Grant AI Report — Page 27 of 27 — generated 2026-05-03) Tj
+ET
+endstream
+endobj
+xref
+0 58
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000296 00000 n 
+0000000366 00000 n 
+0000000492 00000 n 
+0000002627 00000 n 
+0000002753 00000 n 
+0000004618 00000 n 
+0000004744 00000 n 
+0000006876 00000 n 
+0000007004 00000 n 
+0000009169 00000 n 
+0000009297 00000 n 
+0000012430 00000 n 
+0000012558 00000 n 
+0000014874 00000 n 
+0000015002 00000 n 
+0000017467 00000 n 
+0000017595 00000 n 
+0000019758 00000 n 
+0000019886 00000 n 
+0000022080 00000 n 
+0000022208 00000 n 
+0000024528 00000 n 
+0000024656 00000 n 
+0000026668 00000 n 
+0000026796 00000 n 
+0000029111 00000 n 
+0000029239 00000 n 
+0000031911 00000 n 
+0000032039 00000 n 
+0000033806 00000 n 
+0000033934 00000 n 
+0000036119 00000 n 
+0000036247 00000 n 
+0000038999 00000 n 
+0000039127 00000 n 
+0000040870 00000 n 
+0000040998 00000 n 
+0000043213 00000 n 
+0000043341 00000 n 
+0000045164 00000 n 
+0000045292 00000 n 
+0000047290 00000 n 
+0000047418 00000 n 
+0000049236 00000 n 
+0000049364 00000 n 
+0000052052 00000 n 
+0000052180 00000 n 
+0000054465 00000 n 
+0000054593 00000 n 
+0000056718 00000 n 
+0000056846 00000 n 
+0000059150 00000 n 
+0000059278 00000 n 
+0000061926 00000 n 
+0000062054 00000 n 
+trailer << /Size 58 /Root 1 0 R >>
+startxref
+62298
+%%EOF
