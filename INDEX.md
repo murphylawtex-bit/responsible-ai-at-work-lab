@@ -30,9 +30,21 @@ Purpose: grant-ready open-source artifact for responsible AI adoption in busines
 
 - docs/nist-ai-rmf-crosswalk.md
 
+- templates/09-scoring-worksheet.md
+
+- templates/10-pilot-decision-memo.md
+
+- docs/worker-feedback-guide.md
+
+- examples/example-customer-support-triage-pilot.md
+
+- examples/example-sales-proposal-drafting-pilot.md
+
+- examples/example-internal-knowledge-search-pilot.md
+
 ## Next build targets
 
 - Convert templates to fillable PDFs.
-- Create a one-page grant concept note.
+- Create a one-page grant concept note. — complete
 - Add NIST AI RMF crosswalk. — completed draft v0.2
 - Publish as a GitHub-style repository if Sir approves external publication.
