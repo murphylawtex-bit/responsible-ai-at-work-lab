@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Responsible AI at Work Lab</title>
+  <meta name="description" content="Practical open tools helping SMEs adopt AI responsibly while measuring productivity, workforce impact, human oversight, and governance risk." />
+  <style>
+    :root { --ink:#172033; --muted:#5b6475; --bg:#f7f8fb; --card:#ffffff; --accent:#2457ff; --line:#e3e7ef; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color:var(--ink); background:var(--bg); line-height:1.55; }
+    header { background:linear-gradient(135deg,#111827,#243b80); color:white; padding:72px 24px; }
+    main { max-width:1080px; margin:0 auto; padding:36px 24px 72px; }
+    .wrap { max-width:1080px; margin:0 auto; }
+    h1 { font-size: clamp(2.2rem,5vw,4.5rem); line-height:1.02; margin:0 0 18px; letter-spacing:-0.05em; }
+    h2 { font-size:1.6rem; margin:36px 0 12px; letter-spacing:-0.02em; }
+    p.lede { font-size:1.3rem; max-width:780px; color:#d7def5; margin:0 0 28px; }
+    .buttons { display:flex; gap:12px; flex-wrap:wrap; }
+    .button { display:inline-block; padding:12px 16px; border-radius:10px; text-decoration:none; font-weight:700; }
+    .primary { background:white; color:#18213a; }
+    .secondary { background:rgba(255,255,255,.12); color:white; border:1px solid rgba(255,255,255,.28); }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(240px,1fr)); gap:16px; margin-top:18px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px; box-shadow:0 4px 18px rgba(20,30,55,.05); }
+    .card h3 { margin:0 0 8px; }
+    .muted { color:var(--muted); }
+    ul { padding-left:20px; }
+    code { background:#eef2ff; padding:2px 5px; border-radius:5px; }
+    footer { border-top:1px solid var(--line); color:var(--muted); padding:24px; text-align:center; }
+    a { color:var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Responsible AI at Work Lab</h1>
+      <p class="lede">Practical open tools helping small and mid-sized organizations adopt AI responsibly while measuring productivity, workforce impact, human oversight, and governance risk.</p>
+      <div class="buttons">
+        <a class="button primary" href="https://github.com/murphylawtex-bit/responsible-ai-at-work-lab">View the toolkit on GitHub</a>
+        <a class="button secondary" href="QUICKSTART.md">Quickstart</a>
+        <a class="button secondary" href="docs/nist-ai-rmf-crosswalk.md">NIST AI RMF Crosswalk</a>
+      </div>
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>Why this exists</h2>
+      <p>AI adoption is entering ordinary work faster than many organizations can govern it. Large enterprises can hire AI governance teams; small and mid-sized organizations usually cannot. This project translates responsible-AI principles into workflow-level tools operators can actually use.</p>
+    </section>
+
+    <section>
+      <h2>What the toolkit helps answer</h2>
+      <div class="grid">
+        <div class="card"><h3>Should we use AI here?</h3><p class="muted">Define the workflow, AI role, users, affected people, and intended outcome.</p></div>
+        <div class="card"><h3>What value is real?</h3><p class="muted">Measure baseline productivity, quality, rework, review burden, and user experience.</p></div>
+        <div class="card"><h3>Who is affected?</h3><p class="muted">Map workforce impact, job quality, autonomy, transparency, fairness, and stakeholder feedback.</p></div>
+        <div class="card"><h3>Who remains accountable?</h3><p class="muted">Define human oversight, review rules, override paths, escalation, and stop conditions.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Core materials</h2>
+      <div class="grid">
+        <div class="card"><h3>Templates</h3><ul><li>AI use-case intake</li><li>Risk register</li><li>Human oversight plan</li><li>Pilot scorecard</li></ul></div>
+        <div class="card"><h3>Guides</h3><ul><li>30-day implementation guide</li><li>Worker feedback guide</li><li>One-page quickstart</li><li>NIST AI RMF crosswalk</li></ul></div>
+        <div class="card"><h3>Examples</h3><ul><li>Customer support triage</li><li>Sales proposal drafting</li><li>Internal knowledge search</li><li>Administrative assistant pilot</li></ul></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Status</h2>
+      <p><strong>Draft v0.2.</strong> This is an early public draft intended for feedback, pilots, and grant-supported development. It is not legal advice or compliance certification.</p>
+      <p><a href="https://github.com/murphylawtex-bit/responsible-ai-at-work-lab/releases/tag/v0.2-draft">View v0.2-draft release</a></p>
+    </section>
+  </main>
+  <footer>
+    Responsible AI at Work Lab · <a href="mailto:murphy.law.tex@gmail.com">murphy.law.tex@gmail.com</a>
+  </footer>
+</body>
+</html>
