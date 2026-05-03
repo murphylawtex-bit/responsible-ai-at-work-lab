@@ -28,6 +28,7 @@ The toolkit is usable as a starting point, but it is not legal advice, complianc
 - [One-page quickstart](docs/one-page-quickstart.md)
 - [Toolkit index](INDEX.md)
 - [30-day implementation guide](docs/implementation-guide.md)
+- [Worker and stakeholder feedback guide](docs/worker-feedback-guide.md)
 - [NIST AI RMF crosswalk](docs/nist-ai-rmf-crosswalk.md)
 
 ## Core templates
@@ -40,10 +41,15 @@ The toolkit is usable as a starting point, but it is not legal advice, complianc
 - [Human oversight plan](templates/06-human-oversight-plan.md)
 - [Lightweight responsible AI governance policy](templates/07-ai-governance-policy.md)
 - [Pilot review scorecard](templates/08-pilot-review-scorecard.md)
+- [Readiness and risk scoring worksheet](templates/09-scoring-worksheet.md)
+- [Pilot decision memo](templates/10-pilot-decision-memo.md)
 
 ## Example
 
 - [Example: SME administrative assistant pilot](examples/example-sme-admin-assistant-pilot.md)
+- [Example: customer support triage pilot](examples/example-customer-support-triage-pilot.md)
+- [Example: sales proposal drafting pilot](examples/example-sales-proposal-drafting-pilot.md)
+- [Example: internal knowledge search pilot](examples/example-internal-knowledge-search-pilot.md)
 
 ## Why this exists
 
